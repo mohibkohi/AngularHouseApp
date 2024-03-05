@@ -1,0 +1,38 @@
+[
+    {
+      "Id": 1,
+      "Name":"Charlie Brown",
+      "Type": "House",
+      "Price": 12000
+    },
+    {
+      "Id": 2,
+      "Name":"Jackson Mike",
+      "Type": "House",
+      "Price": 1223000
+    },
+    {
+      "Id": 3,
+      "Name":"Charlie Chaplet",
+      "Type": "House",
+      "Price": 2312000
+    },
+    {
+      "Id": 4,
+      "Name":"Charlie Brown",
+      "Type": "House",
+      "Price": 2212000
+    },
+    {
+      "Id": 5,
+      "Name":"Mack Brown",
+      "Type": "House",
+      "Price": 32312000
+    },
+    {
+      "Id": 6,
+      "Name":"Terrible Mac",
+      "Type": "House",
+      "Price": 32312000
+    }
+]
